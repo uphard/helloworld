@@ -1,1 +1,0 @@
-# Figure Hello World Application
